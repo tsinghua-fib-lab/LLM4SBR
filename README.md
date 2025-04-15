@@ -1,5 +1,5 @@
 # LLM4SBR
-"Multi-view Intent Learning and Alignment with Large Langue Models for Session-based Recommendation"
+"Multi-view Intent Learning and Alignment with Large Language Models for Session-based Recommendation"
 
 ## Abstract
   Session-based recommendation (SBR) methods often rely on user behavior data, which can struggle with the sparsity of session data, limiting performance. Researchers have identified that beyond behavioral signals, rich semantic information in item descriptions is crucial for capturing hidden user intent. While large language models (LLMs) offer new ways to leverage this semantic data, the challenges of session anonymity, short-sequence nature, and high LLM training costs have hindered the development of a lightweight, efficient LLM framework for SBR.
